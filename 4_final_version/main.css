@@ -1,0 +1,52 @@
+
+/*To remove gridlines*/
+.dimple-custom-gridline
+{
+	opacity:0!important;
+}
+
+/*To center allign the heading*/
+#top
+{
+	text-align:center;
+}
+
+/*All the styling done below is for alligning the plots and text*/
+.brief
+{
+	margin-left: 50px;
+}
+#plot0
+{
+	margin-left: 200px;
+}
+
+#plot1
+{
+	margin-left: 210px;
+}
+
+#plot2
+{
+	margin-left: 210px;
+}
+
+#plot3
+{
+	margin-left: 210px;
+}
+
+#plot4
+{
+	margin-left: 210px;
+}
+
+#plot5
+{
+	margin-left: 210px;
+}
+
+#plot6
+{
+	margin-left: 210px;
+}

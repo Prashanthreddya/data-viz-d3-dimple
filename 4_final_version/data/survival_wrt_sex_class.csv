@@ -1,0 +1,7 @@
+Sex,Pclass,Survival Count,Death Count,Total Count,Percentage
+female,1,91,3,94,96.8085106383
+female,2,70,6,76,92.1052631579
+female,3,72,72,144,50.0
+male,1,45,77,122,36.8852459016
+male,2,17,91,108,15.7407407407
+male,3,47,300,347,13.5446685879

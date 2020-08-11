@@ -1,0 +1,5 @@
+/*To change the colour of the circles in the line and scatter plot*/
+circle.dimple-series-1
+{
+	fill:rgb(255,0,0) !important;
+}
